@@ -7,15 +7,15 @@ Languages/techonolgies I use and love ❤️:
   - React (best way to do webdev, dont care what the haters say)
   - Supabase (superior db)
   - Render (for hosting heavier code)
+  - Mojo (currently learning 🧠 because Python + memory management is the craziest thing I've ever seen)
   - Basically any language needed for the job
-
-🧠 Currently learning Mojo because Python + memory management is the craziest thing I've ever seen
-
 
 "Do you know how to program in-"
 
 ![Mark](./yes-mark-zuckerberg.gif)
 
 (not really but I catch on fast)
+
+
 
 "Coding is only cool when the end product is cool." - Me
