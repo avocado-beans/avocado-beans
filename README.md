@@ -1,4 +1,4 @@
-I'm just a guy who likes to take on obscure and difficult projects because I don't want to be a React todo script kiddie 🤷🏾.
+I'm just a guy who likes to take on obscure and difficult projects because I don't want to be a React todo-app script kiddie 🤷🏾.
 
 Languages/techonolgies I use and love ❤️:
   - Python (first language i learned + easy to make MVP's)
