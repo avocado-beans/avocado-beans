@@ -2,5 +2,5 @@
 
 ![Mark](./yes-mark-zuckerberg.gif)
 
-(not really but I catch on very fast)
+(not really but I catch on fast)
 
