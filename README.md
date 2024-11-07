@@ -10,6 +10,8 @@ Languages/techonolgies I use and love ❤️:
   - Mojo (currently learning 🧠 because Python + memory management is the craziest thing I've ever seen)
   - Basically any language needed for the job
 
+
+
 "Do you know how to program in-"
 
 ![Mark](./yes-mark-zuckerberg.gif)
