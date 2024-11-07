@@ -9,7 +9,7 @@ Languages/techonolgies I use and love:
   - Render (for hosting heavier code)
   - Basically any language needed for the job
 
-Currently learning Mojo cuz like python + memory management is the craziest thing I've ever seen
+Currently learning Mojo because Python + memory management is the craziest thing I've ever seen
 
 
 "Do you know how to program in-"
