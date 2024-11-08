@@ -17,7 +17,3 @@ Languages/techonolgies I use and love ❤️:
 ![Mark](./yes-mark-zuckerberg.gif)
 
 (not really but I catch on fast)
-
-
-
-"Coding is only cool when the end product is cool." - Me
