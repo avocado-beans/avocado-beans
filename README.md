@@ -8,12 +8,7 @@ Languages/techonolgies I use and love ❤️:
   - Supabase (superior db)
   - Render (for hosting heavier code)
   - Mojo (currently learning 🧠 because Python + memory management is the craziest thing I've ever seen)
-  - Basically any language needed for the job
-
-
-
-"Do you know how to program in-"
+  - Basically any language needed for the job (i catch on quick)
 
 ![Mark](./yes-mark-zuckerberg.gif)
 
-(not really but I catch on fast)
