@@ -5,7 +5,7 @@ Languages/techonolgies I use and love ❤️:
   - Typescript (js + type safety is the like greatest invention ever)
   - Nextjs (SSR and file based routing are convinient + love vercel)
   - React (best way to do webdev, don't care what the haters say)
-  - Zustand (its origin is a german word, which is pretty cool ig)
+  - Zustand (funny sounding german word)
   - Supabase (superior db)
   - Render (for hosting heavier code)
   - Mojo (currently learning 🧠 because Python + memory management is the craziest thing I've ever seen)
