@@ -11,5 +11,4 @@ Languages/techonolgies I use and love ❤️:
   - Mojo (currently learning 🧠 because Python + memory management is crazy)
   - Basically any language needed for the job
 
-![Mark](./yes-mark-zuckerberg.gif)
 
