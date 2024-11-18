@@ -8,7 +8,7 @@ Languages/techonolgies I use and ❤️:
   - Zustand (funny sounding german word)
   - Supabase (superior db)
   - Render (for hosting heavier code)
-  - Mojo (currently learning 🧠 because Python + memory management is crazy)
+  - Mojo (currently learning because Python + memory management is crazy)
   - Basically any language needed for the job
 
 
