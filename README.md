@@ -3,7 +3,7 @@ A guy who likes to take on obscure and difficult projects because I don't want t
 Languages/techonolgies I use and ❤️:
   - Python (first language i learned + easy to make MVP's)
   - Typescript (type saftey makes js less painful to work with)
-  - Nextjs (file based routing + love vercel)
+  - NextJS (file based routing + love vercel)
   - React (best way to do webdev)
   - Zustand (funny sounding german word)
   - Supabase (superior db)
