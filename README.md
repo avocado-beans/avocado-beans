@@ -1,6 +1,6 @@
 A guy who likes to take on obscure and difficult projects because I don't want to be a React todo-app script kiddie 🤷🏾.
 
-Languages/techonolgies I use and love ❤️:
+Languages/techonolgies I use and ❤️:
   - Python (first language i learned + easy to make MVP's)
   - Typescript (type saftey makes js less painful to work with)
   - Nextjs (file based routing + love vercel)
