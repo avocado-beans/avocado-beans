@@ -4,6 +4,6 @@ A guy who likes to take on obscure and difficult projects because I don't want t
   - NextJS, React, Zustand, Supabase
   - Render (for hosting heavier code)
   - Basically any language needed for the job
-And more recently, all things AI! (I know. Shocker.)
+  - And more recently, all things AI! (I know. Shocker.)
 
 
